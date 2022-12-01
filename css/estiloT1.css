@@ -1,0 +1,94 @@
+body{
+    text-align: center;
+    background-color: rgb(187, 183, 183);
+}
+
+nav{
+    background-color: whitesmoke ;
+    margin: auto;
+    padding: 20px;
+    width: 800px;
+    border-radius: 30px;
+    border: 1px lightskyblue solid;
+}
+
+#menu{
+    margin: 5px;
+    padding: 10px;
+    color:black;
+    width: 110px;
+    border-radius: 7px;
+    border: solid darkcyan;
+}
+
+#menu:hover{
+    background-color: whitesmoke;
+    box-shadow: 2px 2px 3px greenyellow;
+}
+
+/*-----------------------------------*/
+#tabla_p{
+    margin: auto;
+    text-align: left;
+    border-spacing: 55px 10px;
+}
+/*-----------------------------------*/
+#tabla_p2{
+    margin: auto;
+    text-align: left;
+    border-spacing: 30px 10px;
+}
+
+#cabez{
+    text-align: center;
+}
+/*-----------------------------------*/
+#tabla_p3{
+    margin: auto;
+}
+/*-----------------------------------*/
+#tabla_p4{
+    margin: auto;
+    border-spacing: 30px 10px;
+}
+
+#td1{
+    text-align: justify;
+}
+
+#td2{
+    text-align: justify;
+}
+/*-----------------------------------*/
+#tabla_p5{
+    margin: auto;
+    border-spacing: 30px 15px;
+}
+
+#table_5{
+    border-spacing: 40px 15px;
+}
+/*-----------------------------------*/
+#foto{
+    width: 360px; ;
+    height:360px ;
+}
+
+#pines{
+    width: 35px;
+    height: 35px;
+}
+
+#estrellas{
+    width: 60px;
+    height: 25px;
+}
+
+#Iconos_4{
+    width: 85px;
+    height: 85px;
+}
+/*-----------------------------------*/
+
+
+
